@@ -1,2 +1,3 @@
 This is a simple text file which I will convert to a binary
 by saving as a pdf.
+And I'm going to update it and update the binary too.

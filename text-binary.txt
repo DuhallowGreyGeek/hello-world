@@ -1,0 +1,2 @@
+This is a simple text file which I will convert to a binary
+by saving as a pdf.
